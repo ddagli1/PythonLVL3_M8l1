@@ -14,7 +14,6 @@ Terminal üzerinden python3 dosya_adi.py komutuyla çalıştırılır.
 En Kritik Kural: Terminalin hangi klasörde olduğu (cd komutu) ile dosyanın fiziksel konumunun eşleşmesi gerekir.
 
 4. Otomatik Dosya Sıralama (Algoritma Mantığı)
-Senin yazdığın algoritma şu 4 adımdan oluşuyor:
 
 Kontrol: os.getcwd() ve os.path.basename() ile doğru klasörde miyiz bak.
 
